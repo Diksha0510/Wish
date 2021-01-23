@@ -19,8 +19,8 @@ Python will be used for backend and Flutter for mobile application development. 
 
 ## Timeline:
 
-Create the UI - 1 week
-Identify a database and train the model - 3-4 weeks
-Create mobile application - 3-4 weeks
-Connect the application to the model (work on the backend) - 2-3 weeks
-Test the application - 1 week
+- Create the UI - 1 week
+- Identify a database and train the model - 3-4 weeks
+- Create mobile application - 3-4 weeks
+- Connect the application to the model (work on the backend) - 2-3 weeks
+- Test the application - 1 week
